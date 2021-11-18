@@ -1,4 +1,4 @@
----
+{
   "root": true,
   "env": {
     "node": true
@@ -14,3 +14,4 @@
     "prettier/prettier": "warn",
     "no-var": "warn"
   }
+}
